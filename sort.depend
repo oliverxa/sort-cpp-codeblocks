@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1578559630 source:/home/hkuit155/Desktop/opencv_lab/sort/main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<unistd.h>
+	<set>
+	"Hungarian.h"
+	"KalmanTracker.h"
+	"opencv2/video/tracking.hpp"
+	"opencv2/highgui/highgui.hpp"
+
+1578366750 /home/hkuit155/Desktop/opencv_lab/sort/Hungarian.h
+	<iostream>
+	<vector>
+
+1578365028 /home/hkuit155/Desktop/opencv_lab/sort/KalmanTracker.h
+	"opencv2/video/tracking.hpp"
+	"opencv2/highgui/highgui.hpp"
+
+1578369521 source:/home/hkuit155/Desktop/opencv_lab/sort/Hungarian.cpp
+	"Hungarian.h"
+	"math.h"
+	"cfloat"
+
+1578370631 source:/home/hkuit155/Desktop/opencv_lab/sort/KalmanTracker.cpp
+	"KalmanTracker.h"
+
